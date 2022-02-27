@@ -1,0 +1,40 @@
+
+#heading
+{
+font-size: 28px;
+width: 100%;
+margin: 10px;
+font-family: cursive;
+color: rgb(29, 21, 15);
+font-weight: bold;
+}
+
+body{
+    background-size: cover;
+font-size:23px;
+}
+
+.btn{
+    font-size:23px;
+    color: rgb(71, 70, 49);
+    
+}
+
+.btn-btn{
+    background-color: darksalmon;
+    border-radius: 10px;
+    line-height: 10px;
+}
+
+canvas{
+    border: dashed;
+    border-radius: 10px;
+    margin-top:100px;
+}
+#status{
+    background-color: rgb(68, 50, 50);
+    color:antiquewhite;
+}
+
+
+
